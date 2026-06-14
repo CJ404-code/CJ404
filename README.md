@@ -1,36 +1,59 @@
-# Hi, I'm Cornelius Boone Jr.
+# Hello, I'm Cornelius Boone Jr.
+
+<a href="https://www.linkedin.com/in/cornelius-boone/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/xzeroc3">
+<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+## About Me
 
 I'm a security-focused IT professional transitioning into SOC Analyst and Cybersecurity Analyst roles. My background includes 4+ years supporting enterprise healthcare and MSP environments with experience in incident triage, identity and access management, phishing investigation, endpoint security, and SIEM monitoring.
 
-## What I'm Working On
+## Objective
 
-- Building SOC lab projects using Splunk, Wazuh, Proxmox, Kali Linux, and Windows
-- Practicing phishing analysis, malware IOC extraction, and network traffic analysis
-- Mapping attack behavior to MITRE ATT&CK
-- Strengthening skills in incident response, threat detection, and vulnerability management
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Tools & Technologies
 
-Splunk • Wazuh • Microsoft Defender XDR • Wireshark • Zeek • Suricata • Nessus • VirusTotal • Any.Run • REMnux • FLARE VM • Active Directory • MFA • RBAC • Windows • Linux • Kali Linux • Proxmox • Python
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-## Featured Cybersecurity Projects
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-- [SOC Monitoring & Alert Investigation Lab](projects/soc-monitoring-alert-investigation/README.md)
-- [Phishing Email Investigation Workflow](projects/phishing-email-investigation/README.md)
-- [Malware IOC Extraction & Traffic Analysis](projects/malware-ioc-traffic-analysis/README.md)
-- [Active Directory Security Hardening](projects/active-directory-security-hardening/README.md)
-- [Vulnerability Assessment & Remediation Testing](projects/vulnerability-assessment-remediation/README.md)
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 ## Certifications
 
-- CompTIA Security+
-- Certified Ethical Hacker (CEH)
-
-## Career Goal
-
-I'm looking for SOC Analyst, Cybersecurity Analyst, or Information Security Analyst roles where I can contribute to threat detection, incident response, log analysis, phishing investigation, and security operations.
-
-## Contact
-
-- Email: xzeroc3@gmail.com
-- <a href="https://www.linkedin.com/in/cornelius-boone/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div>
+<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)-008000?&style=for-the-badge" />
+</div>
