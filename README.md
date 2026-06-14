@@ -33,4 +33,4 @@ I'm looking for SOC Analyst, Cybersecurity Analyst, or Information Security Anal
 ## Contact
 
 - Email: xzeroc3@gmail.com
-- LinkedIn: Cornelius Boone
+- LinkedIn: https://xzeroc3.github.io/cornelius-boone-portfolio/
