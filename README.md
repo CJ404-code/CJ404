@@ -29,6 +29,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Static Analysis - DLL (JavaScript)            | SOC Automation Lab|
+| OSINT                                         | SOC Automation Lab|
+
 
 ## Tools
 
