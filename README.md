@@ -30,6 +30,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Static Analysis - DLL (JavaScript)            | SOC Automation Lab|
 | OSINT                                         | SOC Automation Lab|
+|Incident Report                                | <a href="https://google.com">Template</a>|
 
 
 ## Tools
