@@ -31,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Static Analysis - DLL (JavaScript)            | SOC Automation Lab|
 | OSINT                                         | SOC Automation Lab|
 | Incident Report                               | <a href="https://github.com/CJ404-code/Incident-Report-Template/blob/main/README.md">Incident Report Template</a>|
-| Investigation Template                        | <a href="https://google.com">Investigation Template/a>||
+| Investigation Template                        | <a href="https://github.com/CJ404-code/Investigation-Template">Investigation Template</a>||
 
 
 
